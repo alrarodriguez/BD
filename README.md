@@ -1,6 +1,6 @@
 # BD
 
-Pasos para crear la base de datos:
+Pasos para crear la base de datos MySQL en Workbench:
 
 CREATE DATABASE IF NOT EXISTS people_db;
 commit;
